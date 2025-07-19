@@ -1,2 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/f4shn/main/refs/heads/main/games/gagvisual.lua", true))("discord.gg/csxu2nCkw9")
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/Ixslb9ILrl/0", true))()
+local s1 = game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/f4shn/main/refs/heads/main/games/gagvisual.lua", true))("discord.gg/csxu2nCkw9")")
+local s2 = game:HttpGet("loadstring(game:HttpGet("https://cdn.sourceb.in/bins/Ixslb9ILrl/0", true))()")
+loadstring(s1)()
+loadstring(s2)()
